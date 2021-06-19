@@ -29,7 +29,7 @@ let All_song = [
     },
     {
         name: "song2",
-        path: "music/song9.mp3",
+        path: "music/song79.mp3",
         img: "image/img2.jpg",
         singer: "singer"
     },
@@ -47,7 +47,7 @@ let All_song = [
     },
     {
         name: "song5",
-        path: "music/song5.mp3",
+        path: "music/song9.mp3",
         img: "image/img5.jpg",
         singer: "singer"
     },
@@ -491,7 +491,7 @@ let All_song = [
     },
     {
         name: "song79",
-        path: "music/song79.mp3",
+        path: "music/song5.mp3",
         img: "image/img2.jpg",
         singer: "singer"
     },
